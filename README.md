@@ -12,9 +12,14 @@ Commands
 - 1) /esb - Turn On and Off Explosive SnowBall!
 - More Coming soon
 
+Permission
+==========
+- Coming Soon!
+
 TO-DOs
 ==========
 - [ ] Config File
 - [ ] Make /esb Usable on other players
 - [ ] Make /esb useable from console
 - [ ] Make /esb ? for help
+- [ ] Add Permissions
