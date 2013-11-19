@@ -1,0 +1,12 @@
+name: SimpleExplosiveSnowBall
+version: 0.0.1
+description: Simple way to make SnowBall Explosive!
+author: ddarkpolice
+<nowiki>website: http://www.teamkarbon.com</nowiki>
+ 
+main: simpleexplosivesnowball.teamkarbon.com.Main
+database: false
+ 
+commands:
+   ESB:
+     description: Turn On and Off Explosive SnowBall!
