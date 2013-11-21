@@ -9,17 +9,16 @@ Is it new and buggy? We cannot assure that it is bug free but our developers are
 
 Commands
 ==========
-- 1) /esb - Turn On and Off Explosive SnowBall!
-- More Coming soon
+- **/esb** - Toggle the Explosive Snowball On and Off
+- **/esb ? | /esb help** - Help command for the plugin
+- **/esb stat | /esb status** - Check if Explosive Snowball is Toggle
 
 Permission
 ==========
-- Coming Soon!
+- **esb.*** - Gives access to all Explosive SnowBall Commands - Default: OP
+- **esb.use** - Turn On and Off ESB for yourself. ( /esb ) - Default: Everyone
+- **esb.stats** - Status of Snowball (/esb stat | /esb help) - Default: Everyone
 
 TO-DOs
 ==========
-- [ ] Config File
-- [ ] Make /esb Usable on other players
-- [ ] Make /esb useable from console
-- [ ] Make /esb ? for help
-- [ ] Add Permissions
+Feel free to make any suggestions
