@@ -1,0 +1,20 @@
+
+#################################################################
+# Simple Explosive Snowball Config File                         #
+# By ddarkpolice                                                #
+# Bukkit Dev Link: http://dev.bukkit.org/bukkit-plugins/esb/    #
+#################################################################
+
+#Pretty Self Explanatory
+Block Damage: true
+
+#Set Fire where the Explosion Occurred
+Set Fire: false
+
+#Size of explosion.
+#Useful Links: http://minecraft.gamepedia.com/Explosion#Blast_Resistance
+Size of Explosion: 3
+
+#Any other ideas? Please visit our Bukkit Dev Link: http://dev.bukkit.org/bukkit-plugins/esb/ to share your suggestions!
+
+#End Of Config!
