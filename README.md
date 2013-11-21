@@ -1,4 +1,4 @@
-Simple Explosive Snow Ball
+Simple Explosive Snow Ball V1.1.0
 ==========
 
 What is ESB? ESB is a abbreviation for Explosive Snow Ball, and as it name suggests, it does what it says! A simple way to make snowball explosive!
